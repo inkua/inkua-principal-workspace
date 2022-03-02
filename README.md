@@ -17,3 +17,7 @@ También buscamos desarrollar una cultura de trabajo en la que todos los partici
 
 ## ¿Que carpetas creamos en este repositorio?
 Hay que ver todo esto. 
+
+## ¿Que contenido creo en esta carpeta?
+Esto es una guía de referencia.
+
