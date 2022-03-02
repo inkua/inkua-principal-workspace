@@ -6,5 +6,5 @@
 
 Dentro de VS Studio Code utilizamos Github Copilot [link](https://marketplace.visualstudio.com/items?itemName=GitHub.Copilot) (para automatizar el trabajo y cómo asistente virtual).
 
-# ¿Qué es un repositorio?
+### ¿Qué es un repositorio?
 Un repositorio es como un contenedor de carpetas. 
