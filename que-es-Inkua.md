@@ -1,0 +1,4 @@
+## ¿Qué es Inkua?
+Inkua es una Organización Abierta sin fines de lucro, que busca generar inclusión laboral por medio de la educación y acelerar proyectos de impacto social. Esto quiere decir que nosotros proveemos herramientas, cursos, contactos y experiencia para aumentar la empleabilidad de los participantes y creamos puestos laborales por medio de invertir recursos en emprendimientos generan empleo y sustentabilidad en sus comunidades.
+
+También buscamos desarrollar una cultura de trabajo en la que todos los participantes puedan contribuir con sus conocimientos y experiencias dentro de un ambiente de trabajo colaborativo. 

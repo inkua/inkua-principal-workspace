@@ -10,7 +10,20 @@ Inkua es una Organización Abierta sin fines de lucro, que busca generar inclusi
 
 También buscamos desarrollar una cultura de trabajo en la que todos los participantes puedan contribuir con sus conocimientos y experiencias dentro de un ambiente de trabajo colaborativo. 
 
-La descripción completa se encuentra en: [¿Qué es Inkua?](Que es Inkua.md) 
+La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-Inkua.md) 
+
+## Links
+
+#### Institucionales:
+- [¿Qué es Inkua?](que-es-Inkua.md)
+- [Herramientas/Software](herramientas.md)
+- [Procesos de Inkua](procesos.md)
+- [Puestos Laborales](puestos-laborales.md)
+- [Departamentos](departamentos.md)
+- [Proyectos](proyectos.md)
+
+#### Sociales:
+- [Discord](https://discord.gg/Ce7P2DG)
 
 
 ## ¿Que carpetas hay en este repositorio?
