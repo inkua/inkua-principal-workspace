@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/771356768550912061)](https://discord.gg/Ce7P2DG)
+[![Discord](https://img.shields.io/discord/771356768550912061?style=for-the-badge&logo=discord&color=5865F2)](https://discord.gg/Ce7P2DG)
 
 # INSTITUCIONAL
 Repositorio público institucional de Inkua. 
