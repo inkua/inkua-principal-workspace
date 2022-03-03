@@ -14,13 +14,19 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-Inkua.md)
 
 ## Links
 
-#### Institucionales:
+#### Preguntas frecuentes
+[![Preguntas frecuentes](https://img.shields.io/badge/Preguntas%20frecuentes-%20Inkua-blue.svg)](faq.md)
 - [¿Qué es Inkua?](que-es-Inkua.md)
-- [Herramientas/Software](herramientas.md)
+- [¿Cómo funciona Inkua?](como-funciona-inkua.md)
+- [¿Cómo participar en Inkua?](como-participar.md)
+
 - [Procesos de Inkua](procesos.md)
-- [Puestos Laborales](puestos-laborales.md)
+
 - [Departamentos](departamentos.md)
 - [Proyectos](proyectos.md)
+
+### Tutoriales:
+- [Herramientas/Software](herramientas.md)
 
 #### Sociales:
 - [Discord](https://discord.gg/Ce7P2DG)
