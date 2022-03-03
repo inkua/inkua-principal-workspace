@@ -3,7 +3,7 @@
 # INSTITUCIONAL
 Repositorio público institucional de Inkua. 
 
-El objetivo de este repositorio es compartir con el resto del mundo el conocimiento, la tecnología y la cultura de Inkua. 
+El objetivo de este repositorio es compartir con el resto del mundo el conocimiento, la tecnología y la cultura de Inkua. El contenido de este puntual va a ser documentación, links y quizás proyectos o tareas pendientes. 
 
 ## ¿Qué es Inkua?
 Inkua es una Organización Abierta sin fines de lucro, que busca generar inclusión laboral por medio de la educación y acelerar proyectos de impacto social. Esto quiere decir que nosotros proveemos herramientas para aumentar la empleabilidad y creamos puestos laborales por medio de invertir recursos en emprendimientos generan empleo y valor para sus comunidades.
