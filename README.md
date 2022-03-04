@@ -1,7 +1,6 @@
 [![Discord](https://img.shields.io/discord/771356768550912061?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/Ce7P2DG)
 
 # REPOSITORIO PRINCIPAL
-Repositorio público institucional de Inkua. 
 
 El objetivo de este repositorio es compartir con el resto del mundo el conocimiento, los desarrollos y la cultura de Inkua. En este repositorio se encontran links a otros proyectos de Inkua, tareas pendientes, documentación, manuales de procedimiento, etc.
 
