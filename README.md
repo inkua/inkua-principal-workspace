@@ -14,7 +14,7 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md)
 
 ## Links
 
-#### Preguntas frecuentes
+### Preguntas frecuentes
 - [¿Qué es Inkua?](que-es-inkua.md)
 - [¿Cuál es el objetivo de Inkua?](objetivo-de-inkua.md)
 - [¿Cuál es la propuesta de valor de Inkua?](propuesta-de-valor-de-inkua.md)
@@ -30,9 +30,10 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md)
 - [Proyectos](proyectos.md)
 
 ### Tutoriales:
+- [Github](github.md)
 - [Herramientas/Software](herramientas.md)
 
-#### Sociales:
+### Sociales:
 - [Discord](https://discord.gg/Ce7P2DG)
 
 
