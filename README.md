@@ -2,12 +2,12 @@
 
 # REPOSITORIO PRINCIPAL
 
-El objetivo de este repositorio es compartir con el resto del mundo el conocimiento, los desarrollos y la cultura de Inkua. En este repositorio se encontran links a otros proyectos de Inkua, tareas pendientes, documentación, manuales de procedimiento, etc.
+El objetivo de este repositorio es compartir con el resto del mundo el conocimiento, los desarrollos y la cultura de Inkua. En este repositorio se encontran links a otros proyectos de Inkua, documentación, manuales de procedimiento, etc.
 
 ## ¿Qué es Inkua?
-Inkua es una Organización Abierta sin fines de lucro, que busca generar inclusión laboral por medio de la educación y acelerar o crear proyectos de impacto social. Esto quiere decir que nosotros proveemos herramientas, cursos, contactos y experiencia para aumentar la empleabilidad de los participantes y creamos puestos laborales por medio de invertir recursos en emprendimientos generan empleo y sustentabilidad en sus comunidades.
+Inkua es una Organización Abierta sin fines de lucro, que busca generar inclusión laboral por medio de la educación y acelerar o crear proyectos de impacto social. Esto quiere decir que proveemos herramientas, cursos, contactos y experiencia para aumentar la empleabilidad de los participantes y creamos puestos laborales por medio de invertir recursos en emprendimientos generan empleo y sustentabilidad en sus comunidades.
 
-También implementamos cultura de trabajo en la que todos los participantes pueden contribuir con sus conocimientos y experiencias dentro de un ambiente de trabajo saludable, colaborativo, remoto y que se adapta a la vida de la persona. 
+También implementamos cultura de trabajo en la que todos los participantes pueden contribuir con sus conocimientos y experiencias dentro de un ambiente de trabajo saludable, colaborativo, remoto y que se adapta a su vida. 
 
 La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md) 
 
@@ -21,16 +21,10 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md)
 - [¿Cómo participar en Inkua?](como-participar.md)
 - [¿Cómo funciona el proceso de selección?](como-funciona-seleccion.md)
 
-
-
-
-- [Procesos](procesos.md)
-- [Departamentos](departamentos.md)
-- [Proyectos](proyectos.md)
-
 ### Tutoriales:
 - [Github](github.md)
 - [Herramientas/Software](herramientas.md)
+- [Normas de convivencia](normas-de-convivencia.md)
 
 ### Sociales:
 - [Discord](https://discord.gg/Ce7P2DG)
