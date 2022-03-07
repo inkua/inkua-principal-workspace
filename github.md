@@ -1,5 +1,5 @@
 # GITHUB DE INKUA
-##¿Cómo utilizamos Github?
+## ¿Cómo utilizamos Github?
 Utilizamos Github como repositorio central publico de información. Desde aquí mantenemos actualizados nuestros manuales de procedimiento, tutoriales, documentación, objetivos y también sitio web y herramientas de software que generamos. 
 
 Es importante que todos aprendan a contribuir y colaborar con el proyecto. 
