@@ -13,23 +13,32 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md)
 
 ## Links
 
+### Departamentos
+- [Sistemas](https://github.com/inkua/Sistemas)
+- Comunicación
+- Diseño
+> Actualizar
+
 ### Preguntas frecuentes
 - [¿Qué es Inkua?](que-es-inkua.md)
 - [¿Cuál es el objetivo de Inkua?](objetivo-de-inkua.md)
 - [¿Cuál es la propuesta de valor de Inkua?](propuesta-de-valor-de-inkua.md)
 - [¿Cómo funciona Inkua?](como-funciona-inkua.md)
 - [¿Cómo participar en Inkua?](como-participar.md)
-- [¿Cómo funciona el proceso de selección?](como-funciona-seleccion.md)
+- [¿Cómo funciona el proceso de selección/entrevista?](como-funciona-seleccion.md)
+> @Comunicación completar y actualizar estas preguntas y documentos.
 
 ### Tutoriales:
-- [Github](github.md)
+- [¿Cómo utilizar Github?](github.md)
 - [Herramientas/Software](herramientas.md)
 - [Normas de convivencia](normas-de-convivencia.md)
+> Completar y actualizar estos tutoriales.
 
 ### Sociales:
 - [Discord](https://discord.gg/Ce7P2DG)
-
+> @Comunicación completar con los canales y redes que mantenemos actualizados. 
 
 ## ¿Que carpetas hay en este repositorio?
 > Falta determinar que carpetas hay que crear en este repositorio.
+> 
 
