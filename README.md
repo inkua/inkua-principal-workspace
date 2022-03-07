@@ -25,7 +25,7 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md)
 - [¿Cuál es la propuesta de valor de Inkua?](propuesta-de-valor-de-inkua.md)
 - [¿Cómo funciona Inkua?](como-funciona-inkua.md)
 - [¿Cómo participar en Inkua?](como-participar.md)
-- [¿Cómo funciona el proceso de selección?](como-funciona-seleccion.md)
+- [¿Cómo funciona el proceso de selección/entrevista?](como-funciona-seleccion.md)
 > @Comunicación completar y actualizar estas preguntas y documentos.
 
 ### Tutoriales:
