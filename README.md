@@ -13,7 +13,7 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md)
 
 ## Links
 
-### Departamentos en Discord
+### Departamentos
 - [Sistemas](https://github.com/inkua/Sistemas)
 - Comunicación
 - Diseño
