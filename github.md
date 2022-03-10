@@ -5,7 +5,7 @@ Utilizamos Github como repositorio central publico de información. Desde aquí 
 Es importante que todos aprendan a contribuir y colaborar con el proyecto. 
 
 ## Las ventajas de Github son:
-- Es l)a plataforma más grande de software y desarrollos abiertos.
+- Es la plataforma más grande de software y desarrollos abiertos.
 - Gratuito.
 - Trazabilidad de cambios, aportes individuales y grupales. 
 - Sirve como complemento importantísimo al curriculum de los participantes. 
@@ -23,4 +23,4 @@ Es importante que todos aprendan a contribuir y colaborar con el proyecto.
 
 Con eso es suficiente para empezar a colaborar. Después hay herramientas más avanzadas. Algunas se pueden ver en [herramientas.md](herramientas.md)
 
-Si queres utilizar inteligencia artificial, podes registrate a la lista de espera en Github Copilot. [link](https://github.com/features/copilot/signup)
+Si queres utilizar inteligencia artificial,podes registrate a la lista de espera en Github Copilot. [link](https://github.com/features/copilot/signup)
