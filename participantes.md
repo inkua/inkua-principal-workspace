@@ -4,3 +4,4 @@
 Eso va a quedar con visibilidad pública y guardado con fecha y hora, como todas las colaboraciones. 
 
 - Frank Escudero
+- Clarisa Ishii
