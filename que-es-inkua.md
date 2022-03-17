@@ -5,7 +5,7 @@ Inkua es una Organización Abierta sin fines de lucro, que busca generar inclusi
 1. Seleccionar un cliente
 
 INKUA
-1. Meter gente.
+1. Sumar gente.
     - Alianzas, ongs, empresas y facultades. 
     - Ads. 10.000 u$d.
     
