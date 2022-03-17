@@ -2,10 +2,10 @@
 
 # REPOSITORIO PRINCIPAL
 
-El objetivo de este repositorio es compartir con el resto del mundo el conocimiento, los desarrollos y la cultura de Inkua. En este repositorio se encontran links a otros proyectos de Inkua, documentación, manuales de procedimiento, etc.
+El objetivo de este repositorio es compartir con el resto del mundo el conocimiento, los desarrollos y la cultura de InkuA. En este repositorio se encontran links a otros proyectos, documentación, manuales de procedimiento, etc.
 
 ## ¿Qué es Inkua?
-Inkua es una Organización Abierta sin fines de lucro, que busca generar inclusión laboral por medio de la educación y acelerar o crear proyectos de impacto social. Esto quiere decir que proveemos herramientas, cursos, contactos y experiencia para aumentar la empleabilidad de los participantes y creamos puestos laborales por medio de invertir recursos en emprendimientos generan empleo y sustentabilidad en sus comunidades.
+Inkua es una Organización Abierta sin fines de lucro, que busca generar inclusión laboral por medio de la educación e invertir en proyectos de impacto social. Esto quiere decir que proveemos herramientas, cursos, contactos y experieencia para aumentar la empleabilidad de los participantes y creamos puestos laborales por medio de invertir recursos en emprendimientos generan empleo y sustentabilidad en sus comunidades.
 
 También implementamos cultura de trabajo en la que todos los participantes pueden contribuir con sus conocimientos y experiencias dentro de un ambiente de trabajo saludable, colaborativo, remoto y que se adapta a su vida. 
 
@@ -41,4 +41,22 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md)
 ## ¿Que carpetas hay en este repositorio?
 > Falta determinar que carpetas hay que crear en este repositorio.
 > Traducir y aplicar esto en algún manual: https://github.com/bartvandebiezen/file-name-convention
+<<<<<<< Updated upstream
 > ...
+=======
+
+
+
+
+## NOTAS ORGANIZACIÓN README.md
+
+## ¿Que queremos comunicar?
+- Contar que es InkuA. Organización abierta sin fines de lucro.
+- Queremos que sepan que pueden colaborar, editando textos, manuales, tutoriales, sitios web, etc.
+- Queremos explicar que es Github y colaborar para su carrera profesional.
+- Crear una serie de pasos básicos sencillos.
+
+## ¿Quien es nuestro receptor?
+
+## ¿Que es lo que queremos que hagan?
+>>>>>>> Stashed changes
