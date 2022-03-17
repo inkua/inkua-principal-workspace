@@ -41,4 +41,4 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md)
 ## ¿Que carpetas hay en este repositorio?
 > Falta determinar que carpetas hay que crear en este repositorio.
 > Traducir y aplicar esto en algún manual: https://github.com/bartvandebiezen/file-name-convention
-
+> ...

@@ -10,6 +10,7 @@ Es importante que todos aprendan a contribuir y colaborar con el proyecto.
 - Trazabilidad de cambios, aportes individuales y grupales. 
 - Sirve como complemento importantísimo al curriculum de los participantes. 
 - Flexible y utlizado por profesionales de todas las áreas.
+- Lo utilizan el 87% de las Forbes 100. 
 
 ## Las desventajas de Github son:
 - Dificil de usar.
