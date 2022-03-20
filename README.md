@@ -17,6 +17,10 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md)
 - [Sistemas](https://github.com/inkua/Sistemas)
 - Comunicación
 - Diseño
+- Marketing
+- Relaciones Públicas
+- Recursos Humanos
+- Psicología Organizacional
 > Actualizar
 
 ### Preguntas frecuentes
