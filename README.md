@@ -20,7 +20,7 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md)
 - [Marketing](https://github.com/inkua/Marketing)
 - [Relaciones Públicas](https://github.com/inkua/Relaciones-Publicas)
 - Recursos Humanos
-- Psicología Organizacional
+- [Psicología Organizacional](https://github.com/inkua/Psicologia-Organizacional)
 > Actualizar
 
 ### Preguntas frecuentes
