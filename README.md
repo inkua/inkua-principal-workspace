@@ -58,8 +58,3 @@ La descripción completa se encuentra en: [¿Qué es Inkua?](que-es-inkua.md)
 - Queremos que sepan que pueden colaborar, editando textos, manuales, tutoriales, sitios web, etc.
 - Queremos explicar que es Github y colaborar para su carrera profesional.
 - Crear una serie de pasos básicos sencillos.
-
-## ¿Quien es nuestro receptor?
-
-## ¿Que es lo que queremos que hagan?
->>>>>>> Stashed changes
