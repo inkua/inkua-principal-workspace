@@ -2,7 +2,7 @@
 
 # REPOSITORIO PRINCIPAL
 
-El objetivo de este repositorio es compartir con el resto del mundo el conocimiento, los desarrollos y la cultura de InkuA. En este repositorio se encontran links a otros proyectos, documentación, manuales de procedimiento, etc.
+El objetivo de este repositorio es compartir con el resto del mundo el conocimiento, los desarrollos y la cultura de InkuA. En este repositorio se encuentran links a otros proyectos, documentación, manuales de procedimiento, etc.
 
 ## ¿Qué es Inkua?
 Inkua es una Organización Abierta sin fines de lucro, que busca generar inclusión laboral por medio de la educación e invertir en proyectos de impacto social. Esto quiere decir que proveemos herramientas, cursos, contactos y experieencia para aumentar la empleabilidad de los participantes y creamos puestos laborales por medio de invertir recursos en emprendimientos generan empleo y sustentabilidad en sus comunidades.
