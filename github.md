@@ -1,6 +1,6 @@
 # GITHUB DE INKUA
 ## ¿Cómo utilizamos Github?
-Utilizamos Github como repositorio central publico de información. Desde aquí mantenemos actualizados nuestros ***manuales de procedimiento, tutoriales, documentación, organigrama, objetivos, artículos, filosofía, cultura, sitios web y herramientas de software que generamos***. 
+Utilizamos Github como repositorio central público de información. Desde aquí mantenemos actualizados nuestros ***manuales de procedimiento, tutoriales, documentación, organigrama, objetivos, artículos, filosofía, cultura, sitios web y herramientas de software que generamos***. 
 
 > Con Github todos pueden colaborar y modificar la organización y procesos para **crear más oportunidades**. 
 
@@ -8,9 +8,9 @@ Utilizamos Github como repositorio central publico de información. Desde aquí 
 
 - Es la mejor herramienta de colaboración.
 - Sirve como curriculum de los participantes. 
-- Convierte el perfil de los participantes en un perfiles IT.
+- Convierte el perfil de los participantes en un perfil IT.
 - Lo utilizan el 87% de las Forbes 100 y 20 millones de organizaciones. 
-- Flexible y utlizado por profesionales de todas las áreas.
+- Flexible y utilizado por profesionales de todas las áreas.
 - Trazabilidad de cambios, aportes individuales y grupales. 
 - Es 100% gratuito.
 
@@ -22,9 +22,9 @@ Ser colaborador en Github es muy fácil, no requiere casi tiempo ni compromiso.
 > Con tu usuario de Github podrás **colaborar en cualquier proyecto** de InkuA.
 
 2. Star, Pin y Watch el proyecto en Github y los repositorios de InkuA que sean de tu interés. [Link Proyecto](https://github.com/inkua/Principal) 
->  Esto te permitirá seguri los cambios que se realizan en InkuA.
+>  Esto te permitirá sugerir los cambios que se realizan en InkuA. Esto puede hacerse por medio de "Issues" o "Discussions"
 
-3. Hacé click en el archivo [participantes.md](participantes.md), poné editar y completá el archivo con tu nombre. Primero "Commit" que sube tus cambios a una copia del archivo y después "Generate pull request" que avisa a administradores de Github que quieres actualizar el archivo. 
+3. Hacé clic en el archivo [participantes.md](participantes.md), poné editar y completá el archivo con tu nombre. Primero "Commit" que sube tus cambios a una copia del archivo y después "Generate pull request" que avisa a administradores de Github que quieres actualizar el archivo. 
 > Esto te anota como colaborador en el repositorio.
 
 Para participar más activamente dentro de InkuA hay distintas posibilidades. 
@@ -44,14 +44,14 @@ Github tiene herramientas de comunicación y de interacción que pueden ayudarte
 2. Entrar en contacto con RRHH.
 
 #### 2.3. Entrar en contacto con RRHH: 
-1. Se pueden contactar con RRHH directamente por mail o a travez del formulario de contacto de lisito web. [Link Contacto](https://www.inkua.de/#contact)
+1. Se pueden contactar con RRHH directamente por mail o a través del formulario de contacto de sitio web. [Link Contacto](https://www.inkua.de/#contact)
 
 2. Enviar un email a cv@inkua.de con tu nombre, apellido, email y cualquier otra información que desees.
 
-3. Te van a invitar a una entrevista grupal o individual para conocerte y contarte un poco más sobre InkuA. Y preguntarte en que área queres participar o que queres aprender o enseñar.
+3. Te van a invitar a una entrevista grupal o individual para conocerte y contarte un poco más sobre InkuA. Y preguntarte en que área te gustaría participar o que quieres aprender o enseñar.
 4. Te van a crear un usuario de un sistema de Intranet, que es como una red social de InkuA. Donde se comparten las novedades y hay pefiles, espacios, mensajes privados, etc. 
-5. Te van a asignar y presentar a el responsable de tu nuevo equipo. Este va a explicarte cómo se organizan los procesos y los objetivos del departamento y los proyectos activos.
-> Los proyectos de InkuA son muy variados, y cada uno tiene sus propios requerimientos. Los proyectos surgen de los mismos participantes o a travéz del contacto con otras ONGs y empresas aliadas.
+5. Te van a asignar y presentar al responsable de tu nuevo equipo. Este va a explicarte cómo se organizan los procesos y los objetivos del departamento y los proyectos activos.
+> Los proyectos de InkuA son muy variados, y cada uno tiene sus propios requerimientos. Los proyectos surgen de los mismos participantes o por contacto con otras ONGs y aliados.
 
 
 
@@ -59,6 +59,6 @@ Github tiene herramientas de comunicación y de interacción que pueden ayudarte
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 ## Tareas Pendientes
-- [ ] Crear tutorial de Markdown y nuestros estilo de documentación en español. 
-- [ ]  Vincular con tutorial de herramientas con los elementos paso a paso.
-- [ ]  Completar los pasos.
+- [ ] Crear tutorial de Markdown y nuestros estilos de documentación en español. 
+- [ ] Vincular con tutorial de herramientas con los elementos paso a paso.
+- [ ] Completar los pasos.
