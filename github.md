@@ -16,7 +16,7 @@ Utilizamos Github como repositorio central publico de información. Desde aquí 
 
 
 ## Primeros pasos en Github:
-#### [ ] Ser colaborador online:
+#### Ser colaborador online:
 1. Crear una cuenta en Github. No te olvides de cargar una **imagen personal adecuada** y poner correctamente tu **nombre y apellido**. [Link Github](https://github.com/signup) 
 2. Star, Pin y Watch el proyecto en Github y los repositorios. [Link Proyecto](https://github.com/inkua/Principal)
 3. Hacé click en el archivo [participantes.md](participantes.md), poné editar y completá el archivo con tu nombre. Primero "Commit" que sube tus cambios a una copia del archivo y después "Generate pull request" que avisa a administradores de Github que quieres actualizar el archivo original. 
@@ -26,3 +26,7 @@ Con eso es suficiente para empezar a colaborar. Después hay herramientas más a
 
 Si queres utilizar inteligencia artificial,podes registrate a la lista de espera en Github Copilot. [link](https://github.com/features/copilot/signup)
 
+
+## Tareas Pendientes
+- [ ] \(Optional) Crear tutorial de Markdown y nuestros estilos en español. 
+- [ ]  Completar los pasos.
