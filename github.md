@@ -25,7 +25,7 @@ Ser colaborador en Github es muy fácil, no requiere casi tiempo ni compromiso.
 >  Esto te permitirá sugerir los cambios que se realizan en InkuA. Esto puede hacerse por medio de "Issues" o "Discussions"
 
 3. Hacé clic en el archivo [participantes.md](participantes.md), poné editar y completá el archivo con tu nombre. Primero "Commit" que sube tus cambios a una copia del archivo y después "Generate pull request" que avisa a administradores de Github que quieres actualizar el archivo. 
-> Esto te anota como colaborador en el repositorio.
+> Esto te registra como colaborador en el repositorio y la institución.
 
 Para participar más activamente dentro de InkuA hay distintas posibilidades. 
 
@@ -52,6 +52,11 @@ Github tiene herramientas de comunicación y de interacción que pueden ayudarte
 4. Te van a crear un usuario de un sistema de Intranet, que es como una red social de InkuA. Donde se comparten las novedades y hay pefiles, espacios, mensajes privados, etc. 
 5. Te van a asignar y presentar al responsable de tu nuevo equipo. Este va a explicarte cómo se organizan los procesos y los objetivos del departamento y los proyectos activos.
 > Los proyectos de InkuA son muy variados, y cada uno tiene sus propios requerimientos. Los proyectos surgen de los mismos participantes o por contacto con otras ONGs y aliados.
+
+
+#### 3. Participar dentro de un equipo:
+1. Al ingresar a un equipo se asigna el rol de "ejecutivo" que es un colaborador. Cada departamento tiene sus propios nombres de los puestos y se diseñan para responder a las necesidades de los participantes. Cómo ejecutivo tus obligaciones son las siguientes:
+- Crear y mantener una comunicación con el coordinador de tu equipo.
 
 
 
