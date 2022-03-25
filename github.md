@@ -46,20 +46,19 @@ Github tiene herramientas de comunicación y de interacción que pueden ayudarte
 #### 2.3. Entrar en contacto con RRHH: 
 1. Se pueden contactar con RRHH directamente por mail o a través del formulario de contacto de sitio web. [Link Contacto](https://www.inkua.de/#contact)
 
-2. Enviar un email a cv@inkua.de con tu nombre, apellido, email y cualquier otra información que desees.
+2. Enviar un email a cv@inkua.de con tu nombre, apellido, email, contanos quien sos y que te gustaría hacer.
 
-3. Te van a invitar a una entrevista grupal o individual para conocerte y contarte un poco más sobre InkuA. Y preguntarte en que área te gustaría participar o que quieres aprender o enseñar.
-4. Te van a crear un usuario de un sistema de Intranet, que es como una red social de InkuA. Donde se comparten las novedades y hay pefiles, espacios, mensajes privados, etc. 
+3. Te van a invitar a una entrevista grupal o individual para conocerte y contarte un poco más sobre InkuA. Y preguntarte en qué área te gustaría participar o que quieres aprender o enseñar.
+4. Te van a crear un usuario de un sistema de Intranet, que es como una red social de InkuA. Donde se comparten las novedades y hay perfiles, espacios, mensajes privados, etc. 
 5. Te van a asignar y presentar al responsable de tu nuevo equipo. Este va a explicarte cómo se organizan los procesos y los objetivos del departamento y los proyectos activos.
 > Los proyectos de InkuA son muy variados, y cada uno tiene sus propios requerimientos. Los proyectos surgen de los mismos participantes o por contacto con otras ONGs y aliados.
 
 
 #### 3. Participar dentro de un equipo:
 1. Al ingresar a un equipo se asigna el rol de "ejecutivo" que es un colaborador. Cada departamento tiene sus propios nombres de los puestos y se diseñan para responder a las necesidades de los participantes. Cómo ejecutivo tus obligaciones son las siguientes:
+- Entender la estructura, roles, organización y objetivos de InkuA. [Link a Conceptos Básicos](conceptos-basicos.md)
 - Crear y mantener una comunicación con el coordinador de tu equipo.
-
-
-
+- Elegir y realizar las tareas recomendadas.[FALTA CREAR MANUAL BÁSICO](manual.md) 
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -67,3 +66,35 @@ Github tiene herramientas de comunicación y de interacción que pueden ayudarte
 - [ ] Crear tutorial de Markdown y nuestros estilos de documentación en español. 
 - [ ] Vincular con tutorial de herramientas con los elementos paso a paso.
 - [ ] Completar los pasos.
+
+
+## Primeros pasos en InkuA:
+Hay distintos caminos con distintos niveles de interactividad. Estas opciones se actualizan y pueden cambiar.
+
+**A. Camino 'Tradicional'**
+- Contactar a RRHH. 
+- Realizar una entrevista para conocernos y ver cómo podríamos participar.
+> Esta es la mejor forma de participar en InkuA.
+
+**B. Camino 'GitHub'**
+- Aprender a colaborar en GitHub. [Link]
+- Participar en los foros de GitHub. 
+> Este es el camino que requiere menos formalidades y compromiso.
+
+
+
+<!-- 
+- Frank: No se si esto es una buena Opción. Puede haber trolls eventualmente. 
+
+**C. Camino 'Chat'** 
+- Utilizamos Discord, ahí podés participar con los integrantes que utilizan Discord.
+- Entender las normas y modos de colaborar en Discord *Link.
+- Participar en los eventos de Discord.
+> Este camino es bueno para gente que ya utiliza Discord y le gusta hacer sociales.
+
+
+-->
+
+
+
+
