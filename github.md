@@ -4,6 +4,13 @@ Utilizamos Github como repositorio central público de información. Desde aquí
 
 > Con Github todos pueden colaborar y modificar la organización y procesos para **crear más oportunidades**. 
 
+### GitHub muestra tu participación en InkuA y otros proyectos a todo el Mundo.
+- Cada archivo creas o editas o mejora que propones en InkuA, se publica en GitHub.
+- Todas tus interacciones y aportes quedan registrados, con los documentos involucrados y la fecha.
+- Cualquier persona o reclutador podrá ver tu perfil, tu antigüedad, los días trabajados, ver tu trabajo individual, en equipo, las herramientas que usas y la calidad de tu trabajo.
+### Así se puede ver el perfil de una persona activa. 
+> TODO: Ingresar captura y link de persona activa en GitHub.  
+
 ## ¿Por qué utilizamos Github?
 
 - Es la mejor herramienta de colaboración.
@@ -15,35 +22,33 @@ Utilizamos Github como repositorio central público de información. Desde aquí
 - Es 100% gratuito.
 
 
-## Primeros pasos en Github:
+
+
+
+
+## Primeros pasos en InkuA con Github:
 #### 1. Ser colaborador online:
 Ser colaborador en Github es muy fácil, no requiere casi tiempo ni compromiso. 
 1. Crear una cuenta en Github. No te olvides de cargar una **imagen personal adecuada** y poner correctamente tu **nombre y apellido**. [Link Github](https://github.com/signup)
 > Con tu usuario de Github podrás **colaborar en cualquier proyecto** de InkuA.
 
 2. Star, Pin y Watch el proyecto en Github y los repositorios de InkuA que sean de tu interés. [Link Proyecto](https://github.com/inkua/Principal) 
->  Esto te permitirá sugerir los cambios que se realizan en InkuA. Esto puede hacerse por medio de "Issues" o "Discussions"
+>  Esto te permitirá sugerir los cambios que se realizan en InkuA. Esto puede hacerse por medio de "Issues"(temas) o "Discussions"(Discusiones)
 
-3. Hacé clic en el archivo [participantes.md](participantes.md), poné editar y completá el archivo con tu nombre. Primero "Commit" que sube tus cambios a una copia del archivo y después "Generate pull request" que avisa a administradores de Github que quieres actualizar el archivo. 
+3. Hacé clic en el archivo [participantes.md](participantes.md), poné editar y completá el archivo con tu nombre. Primero "Commit" que sube tus cambios a una copia del archivo y después "Generate pull request" que avisa a administradores de Github que quieres actualizar el archivo. Para aprender más sobre el lenguaje "Markdown" que utilizan los archivos MD, visita [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/) 
 > Esto te registra como colaborador en el repositorio y la institución.
 
-Para participar más activamente dentro de InkuA hay distintas posibilidades. 
+Para participar más activamente dentro de InkuA hay distintas posibilidades. Ver los siguientes ítems: 2.1. o 2.2.
 
-#### 2.1. Perfeccionar tu conocimiento de Github:
+#### 2.1 Perfeccionar tu conocimiento de Github:
 Github tiene herramientas de comunicación y de interacción que pueden ayudarte a mantenerte en contacto con los demás colaboradores para conocerse y participar más en el proyecto.
 1. Hacer tutoriales de Github. [Link a Tutoriales](tutoriales-github.md)
 2. Descargar las herramientas de Github. Github Desktop y VSCode y aprender a usarlas. [Link a Herramientas](herramientas-github.md)
 3. Proponer cambios y mejoras en los repositorios de InkuA. 
 4. Registrarse a al piloto de Inteligencia Artificial de Github: [Link a Copilot](https://copilot.ai/register)
-5. Entrar en contacto con RRHH.
+5. Entrar en contacto con RRHH. Con suficientes participaciones es muy probable que el equipo de RRHH se ponga en contacto contigo a través de GitHub. Pero también puedes mirar su repositorio para ver cuáles son los canales y procesos más actualizados. [Link a RRHH](https://github.com/inkua/RRHH)
 
-
-#### 2.2. Participar en el canal de Discord:
-1. Creá un usuario utilizando nuevamente una imagen y nombre completo para participar en el Discord de InkuA. [Link Discord](https://discord.gg/Ce7P2DG) 
-> En este espacio van a encontrar mentores que pueden ayudarte a involucrarte en el proyecto y participar en eventos.
-2. Entrar en contacto con RRHH.
-
-#### 2.3. Entrar en contacto con RRHH: 
+#### 2.2. Entrar en contacto con RRHH: 
 1. Se pueden contactar con RRHH directamente por mail o a través del formulario de contacto de sitio web. [Link Contacto](https://www.inkua.de/#contact)
 
 2. Enviar un email a cv@inkua.de con tu nombre, apellido, email, contanos quien sos y que te gustaría hacer.
@@ -58,9 +63,11 @@ Github tiene herramientas de comunicación y de interacción que pueden ayudarte
 1. Al ingresar a un equipo se asigna el rol de "ejecutivo" que es un colaborador. Cada departamento tiene sus propios nombres de los puestos y se diseñan para responder a las necesidades de los participantes. Cómo ejecutivo tus obligaciones son las siguientes:
 - Entender la estructura, roles, organización y objetivos de InkuA. [Link a Conceptos Básicos](conceptos-basicos.md)
 - Crear y mantener una comunicación con el coordinador de tu equipo.
-- Elegir y realizar las tareas recomendadas.[FALTA CREAR MANUAL BÁSICO](manual.md) 
+- Elegir y realizar las tareas recomendadas. [FALTA CREAR MANUAL BÁSICO](manual.md) 
 
 
+
+<!-- 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 ## Tareas Pendientes
 - [ ] Crear tutorial de Markdown y nuestros estilos de documentación en español. 
@@ -79,7 +86,7 @@ Hay distintos caminos con distintos niveles de interactividad. Estas opciones se
 **B. Camino 'GitHub'**
 - Aprender a colaborar en GitHub. [Link]
 - Participar en los foros de GitHub. 
-> Este es el camino que requiere menos formalidades y compromiso.
+> Este es el camino que requiere menos formalidades y compromiso. -->
 
 
 
