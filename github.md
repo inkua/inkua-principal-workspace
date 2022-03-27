@@ -9,7 +9,17 @@ Utilizamos Github como repositorio central público de información. Desde aquí
 - Todas tus interacciones y aportes quedan registrados, con los documentos involucrados y la fecha.
 - Cualquier persona o reclutador podrá ver tu perfil, tu antigüedad, los días trabajados, ver tu trabajo individual, en equipo, las herramientas que usas y la calidad de tu trabajo.
 ### Así se puede ver el perfil de una persona activa. 
-> TODO: Ingresar captura y link de persona activa en GitHub.  
+El perfil de GitHub también sale en resultados de búsqueda de Google, mejorando el SEO del participante. 
+Perfil ejemplo de una persona muy activa:
+
+![image](https://user-images.githubusercontent.com/100420113/160303902-6461be05-4fd5-4a11-b77b-c65a15caa91e.png)
+![image](https://user-images.githubusercontent.com/100420113/160303723-8ed9a3d4-9239-4fdc-b847-b43d0d0d5c7f.png)
+
+Link Público: [https://github.com/albertvaka](https://github.com/albertvaka)
+
+Aquí pueden ver por ejemplo una persona que no tiene un perfil muy activo. [Link](https://github.com/massimostella)
+
+
 
 ## ¿Por qué utilizamos Github?
 
@@ -19,9 +29,7 @@ Utilizamos Github como repositorio central público de información. Desde aquí
 - Lo utilizan el 87% de las Forbes 100 y 20 millones de organizaciones. 
 - Flexible y utilizado por profesionales de todas las áreas.
 - Trazabilidad de cambios, aportes individuales y grupales. 
-- Es 100% gratuito.
-
-
+- Es 100% gratuito, flexible y poderoso.
 
 
 
