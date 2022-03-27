@@ -1,1 +1,0 @@
-# Bibliografía interna y externa.
