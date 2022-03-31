@@ -8,7 +8,7 @@ Utilizamos Github como repositorio central público de información. Desde aquí
 - Cada archivo creas o editas o mejora que propones en InkuA, se publica en GitHub.
 - Todas tus interacciones y aportes quedan registrados, con los documentos involucrados y la fecha.
 - Cualquier persona o reclutador podrá ver tu perfil, tu antigüedad, los días trabajados, ver tu trabajo individual, en equipo, las herramientas que usas y la calidad de tu trabajo.
-### Así se puede ver el perfil de una persona activa. 
+### Así se ve el perfil de una persona activa: 
 El perfil de GitHub también sale en resultados de búsqueda de Google, mejorando el SEO del participante. 
 Perfil ejemplo de una persona muy activa:
 
@@ -43,7 +43,7 @@ Ser colaborador en Github es muy fácil, no requiere casi tiempo ni compromiso.
 2. Star, Pin y Watch el proyecto en Github y los repositorios de InkuA que sean de tu interés. [Link Proyecto](https://github.com/inkua/Principal) 
 >  Esto te permitirá sugerir los cambios que se realizan en InkuA. Esto puede hacerse por medio de "Issues"(temas) o "Discussions"(Discusiones)
 
-3. Hacé clic en el archivo [participantes.md](participantes.md), poné editar y completá el archivo con tu nombre. Primero "Commit" que sube tus cambios a una copia del archivo y después "Generate pull request" que avisa a administradores de Github que quieres actualizar el archivo. Para aprender más sobre el lenguaje "Markdown" que utilizan los archivos MD, visita [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/) 
+3. Hacé clic en el archivo [lista-de-participantes.md](lista-de-participantes.md), poné editar y completá el archivo con tu nombre. Primero "Commit" que sube tus cambios a una copia del archivo y después "Generate pull request" que avisa a administradores de Github que quieres actualizar el archivo. Para aprender más sobre el lenguaje "Markdown" que utilizan los archivos MD, visita [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/) 
 > Esto te registra como colaborador en el repositorio y la institución.
 
 Para participar más activamente dentro de InkuA hay distintas posibilidades. Ver los siguientes ítems: 2.1. o 2.2.
