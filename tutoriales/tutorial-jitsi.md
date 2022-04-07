@@ -17,12 +17,12 @@ Ahi pones tu nombre. Sobre los íconos de camara y micrófono hay una flechita, 
 ![image](https://user-images.githubusercontent.com/100420113/162193249-d319f00a-aeb2-4a47-9416-d464c0048146.png)
 
 ### Botones Importantes: 
-- 1 Compartir pantalla.
-- 2 Enviar y leer mensajes de texto o el chat de la sala.
-- 3 Levantar la mano para solicitar hablar cuando otra persona está hablando.
-- 4 Ver la lista de participantes o Invitar a alguien. 
-- 5 Es para poder ver a todos los participantes al mismo tiempo (recomiendo presionar este botón)
-- 6 Menú de settings donde puedes cambiar tu nombre y muchas otras opciones. 
+1. Compartir pantalla.
+2. Enviar y leer mensajes de texto o el chat de la sala.
+3. Levantar la mano para solicitar hablar cuando otra persona está hablando.
+4. Ver la lista de participantes o Invitar a alguien. 
+5. Es para poder ver a todos los participantes al mismo tiempo (recomiendo presionar este botón)
+6. Menú de settings donde puedes cambiar tu nombre y muchas otras opciones. 
 
 ### Notas: 
 - Hay muchas otras funciones que se agregan y actualizan constantemente. Se pueden descubrir y probar usandolo.
