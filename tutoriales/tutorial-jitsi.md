@@ -36,3 +36,22 @@ Si le das click a un link en celular va a mostrarte 3 botones, el primero es uni
 Descargar el app o utilizar la versión web es casi lo mismo. Si descargan el app, la próxima vez que quieran unirse puede apretar el botón de "unirse utilizando el app", si no sigan presionando "Lanzar utilizando la versión web".
 
 
+# Jitsi Avanzado
+Se pueden hacer muchas cosas con Jitsi para crear mejores experiencias de comunicación.
+
+### Compartir videos por link permite que tengan mejor calidad y audio para el receptor
+1. Presionar los tres puntitos [...]  y seleccionar la opción "Compartir un video".   
+2. Introducir el link completo al video ejemplo: "https://youtu.be/nesqdTGrYoM" (sin las comillas) y presionar compartir. 
+3. Cuando quieras detener el video en [...] se va a estar la opción "Detener el video".
+
+![image](https://user-images.githubusercontent.com/100420113/162196844-46de9816-d769-4a04-969b-d26214443eb2.png)
+
+Esto es genial, porque mostrar un video compartiendo la pantalla no se ve bien y funciona mal para la mayor parte de los usuarios. 
+
+### Crear "Breakout Rooms" dentro de la Sala
+Se puede crear salas y mover a usuarios para hacer discusiones entre equipos y otras actividades. 
+
+
+> Completar cuando puedan. En el documento está bien explicado. 
+
+
