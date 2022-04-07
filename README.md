@@ -40,7 +40,7 @@ La descripción completa se encuentra en: [¿Qué es InkuA?](que-es-inkua.md)
 
 ### Sociales:
 - [Discord](https://discord.gg/Ce7P2DG)
-- [GitHub Teams](https://github.com/orgs/inkua/teams/todo-inkua/)
+- [GitHub Teams](https://github.com/orgs/inkua/teams/todo-inkua/) (Esto sólo lo pueden utilizar miembros de la ORG. El resto va a ver un error 404.)
 > @Comunicación completar con los canales y redes que mantenemos actualizados. 
 
 ## ¿Qué carpetas hay en este repositorio?
