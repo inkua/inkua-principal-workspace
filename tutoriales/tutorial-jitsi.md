@@ -30,7 +30,9 @@ Ahi pones tu nombre. Sobre los íconos de camara y micrófono hay una flechita, 
 
 # Versión Mobile
 Si le das click a un link en celular va a mostrarte 3 botones, el primero es unirte a la reunión con el app después descargar el app o lanzar la versión web en el celular.
+
 > TODO: Insertar captura de pantalla de ese dialogo. 
+
 Descargar el app o utilizar la versión web es casi lo mismo. Si descargan el app, la próxima vez que quieran unirse puede apretar el botón de "unirse utilizando el app", si no sigan presionando "Lanzar utilizando la versión web".
 
 
