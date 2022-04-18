@@ -11,7 +11,9 @@ También implementamos cultura de trabajo en la que todos los participantes pued
 
 La descripción completa se encuentra en: [¿Qué es InkuA?](que-es-inkua.md) 
 
+
 ## Links
+- [Todos los Issues Abiertos](https://github.com/search?q=user%3Ainkua+state%3Aopen&type=Issues)
 
 ### Departamentos
 - [Sistemas](https://github.com/inkua/Sistemas)
