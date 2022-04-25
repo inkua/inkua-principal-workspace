@@ -35,6 +35,7 @@ La descripción completa se encuentra en: [¿Qué es InkuA?](que-es-inkua.md)
 > @Comunicación completar y actualizar estas preguntas y documentos.
 
 ### Tutoriales:
+- [Tutorial Discord](https://docs.google.com/presentation/d/e/2PACX-1vRQUaxaAXG0DT3AZCcIVjdwdQjlIgTtf-l0IgxDsydv7lQU5zFbcEhbsXSvSzt-nlc5DtKoBHIjq4nl/pub?start=false&loop=false&delayms=3000)
 - [¿Cómo utilizar Github?](github.md)
 - [Herramientas/Software](herramientas.md)
 - [Normas de convivencia](normas-de-convivencia.md)
