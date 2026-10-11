@@ -34,6 +34,10 @@ La descripción completa se encuentra en: [¿Qué es InkuA?](que-es-inkua.md)
 - [¿Cómo funciona el proceso de selección/entrevista?](como-funciona-seleccion.md)
 > @Comunicación completar y actualizar estas preguntas y documentos.
 
+### Videos:
+- [Videos Institucionales y Tutoriales](videos/README.md)
+> Materiales, libretos y recursos para los videos de InkuA.
+
 ### Tutoriales:
 - [Tutorial Discord](https://docs.google.com/presentation/d/e/2PACX-1vRQUaxaAXG0DT3AZCcIVjdwdQjlIgTtf-l0IgxDsydv7lQU5zFbcEhbsXSvSzt-nlc5DtKoBHIjq4nl/pub?start=false&loop=false&delayms=3000)
 - [¿Cómo utilizar Github?](github.md)
