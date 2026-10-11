@@ -6,3 +6,6 @@ Esta carpeta está destinada a juntar materiales, libretos y recursos para armar
 - Videotutoriales.
 - Videos de casos de éxito.
 - Videos institucionales que cuenten qué es InkuA.
+
+## Libretos y Guiones Actuales
+- [Guion de Video: ¿Qué es InkuA?](guion-que-es-inkua.md)
